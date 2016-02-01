@@ -18,7 +18,7 @@ day. The data consists of two months of data from an anonymous
 individual collected during the months of October and November, 2012
 and include the number of steps taken in 5 minute intervals each day.
 
-**The R markdown document of the completed assignment is in [RepData_PeerAssessment1.Rmd](RepData_PeerAssessment1.Rmd), and the HTML file resulting from processing the R markdown document with knitr is [RepData_PeerAssessment1.html](RepData_PeerAssessment1.html).**   
+**The R markdown document of the completed assignment is in [PA1_template.Rmd](PA1_template.Rmd), and the HTML file resulting from processing the R markdown document with knitr is [PA1_template.html](PA1_template.html).**   
 
 ## Data
 
